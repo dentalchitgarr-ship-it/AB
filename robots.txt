@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /api.php
+Disallow: /book.php
+Disallow: /admin.html
+
+Sitemap: https://diyardent.ir/sitemap.xml
